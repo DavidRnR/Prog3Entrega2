@@ -40,8 +40,9 @@ public class Sim {
 			
 			//**********************Conclusión*********************************************
 			// El método MergeSort es mucho más eficiente cuando aumentamos el tamaño del arreglo.
-			// El método de Selección tiene una complejidad O líneal. Ya que tiene n elementos y debe hacer n movimientos para ordenarlo.
-			// MergeSort tiene una complejidad logarítmica. Cuantos mas elementos tenga el arreglo mas eficiente es.
+			// El método de Selección tiene una complejidad O exponencial. 
+			// MergeSort tiene una complejidad n logarítmica. Cuantos mas elementos tenga el arreglo mas eficiente es. 
+			// Gráficamente tendrá una curva que crece rápidamente y luego crece lentamente.
 		}
 
 
